@@ -14,3 +14,6 @@
 **可以用以下命令查看git当前代理设置**  
 `git config --global --get http.proxy`  
 `git config --global --get https.proxy`
+
+## 查看本地commit记录 
+`git log`
